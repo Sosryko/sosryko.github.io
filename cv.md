@@ -1,12 +1,6 @@
 Sosryko
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
-
 Education
 ---------
 
@@ -19,10 +13,15 @@ Sep 2015 - Sep 2018
 Experience
 ----------
 
-** ENGIE Global Markets **
 
 Feb 2020 - May 2021
-:   Market analyst assistant (Gas consumptions ML models, Hybrid fundamental/DL power price model)
+:   **ENGIE Global Markets**; Market analyst assistant 
+:  Gas consumptions ML models, Hybrid fundamental/DL power price model
+
+
+Feb 2020 - May 2021
+:   **ArcelorMittal research centre**; Research intern
+:  Model development for cold rolling, model integration in an Android application
 
 
 Technical Experience
@@ -36,30 +35,15 @@ My Cool Side Project
     * Second item.
 
 Programming Languages
-:   **Python:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+----------------------------------------
 
-:   **javascript:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Python:** pandas, sklearn, Keras
+
+:   **javascript:** Node.js, jQuery, d3.js
     
-:   **C++:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **C++**
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
+:   Basic knowledge of **MATLAB**
 
 Languages
 ----------------------------------------
@@ -71,7 +55,29 @@ Languages
      * Russian
      * Romanian
      * Luxembourgish
-     
-Interest in various other languages
+
+
+Voluntary Experience
+--------------------
+
+2018 - Now
+:  Translator from Russian/German to French at Novastan (Online newspapers dedicated to Central Asia)
+
+2018 - Now
+:  Development of a multilingual collaborative dictionary at Gau un Griis
+
+2020 - Now
+:  Member of Maisons paysannes de Moselle, association for the protection of the rural built heritage of the Moselle department
+
+
+Other
+--------------------
+
+Languages,
+History, 
+Folklore, 
+Reading,
+Botanics, 
+Hiking
 
 
