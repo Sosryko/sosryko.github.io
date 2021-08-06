@@ -10,40 +10,43 @@ Sep 2018 - Sep 2019
 Sep 2015 - Sep 2018
 :   **Master of Engineering science**; Ecole Centrale de Lille
 
+Sep 2017 - Jul 2021
+:  **Bachelor of Russian**; Lille University
+:  Russian grammar, Russian litterature, Russian history
+
+Sep 2018 - Jul 2020
+:  **DLC3 of Estonian**; INALCO
+:  Estonian grammar, Estonian litterature
+
 Experience
 ----------
 
 
 Feb 2020 - May 2021
-:   **ENGIE Global Markets**; Market analyst assistant 
+:   **ENGIE Global Markets**; Market analyst assistant; Bucharest RO
 :  Gas consumptions ML models, Hybrid fundamental/DL power price model
 
 
 Feb 2020 - May 2021
-:   **ArcelorMittal research centre**; Research intern
+:   **ArcelorMittal research centre**; Research intern; Maizières-lès-Metz FR
 :  Model development for cold rolling, model integration in an Android application
 
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   [link](https://plattform.lothringer-platt.eu)
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+[Frankish language dictionary](https://plattform.lothringer-platt.eu)
 
 Programming Languages
 ----------------------------------------
 
-:   **Python:** pandas, sklearn, Keras
+**Python:** pandas, sklearn, Keras
 
-:   **javascript:** Node.js, jQuery, d3.js
+**javascript:** Node.js, jQuery, d3.js
     
-:   **C++**
+**C++**
 
-:   Basic knowledge of **MATLAB**
+Basic knowledge of **MATLAB**
 
 Languages
 ----------------------------------------
