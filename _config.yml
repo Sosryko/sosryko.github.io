@@ -3,3 +3,5 @@ theme: jekyll-theme-minimal
 header_pages:
   - cv.md
   - pans_de_bois.md
+  
+classes: wide
