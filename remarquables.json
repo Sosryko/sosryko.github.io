@@ -1,0 +1,146 @@
+[
+	{
+		"latitude":49.06171194,
+		"longitude":6.878712569,
+		"commune":	"Hoste",
+		"entete":"Maison Guth",
+		"etat":"rénovée",	
+		"description":"Inscrite MH",
+		"image":"images/hoste.jpg"
+	},
+	{
+		"latitude":49.07301329,
+		"longitude":6.850962762,
+		"commune":	"Cappel",
+		"entete":"Maison Renaissance",
+		"etat":"rénovée",	
+		"description":"Inscrite MH",
+		"image":"images/cappel.jpg"
+	},
+	{
+		"latitude":48.80651789,
+		"longitude":6.895105217,
+		"commune":	"Belles-Forêts",
+		"entete":"Maison du Clément",
+		"etat":"rénovée",	
+		"description":"Inscrite MH, rénovée par l'association Maisons pyasannes de Moselle",
+		"image":"images/bisping.jpg"
+	},
+	{
+		"latitude":48.86060119,
+		"longitude":6.941224232,
+		"commune":	"Mittersheim",
+		"entete":"Maison Abeck",
+		"etat":"mauvais",	
+		"description":"Menacée de destruction",
+		"image":"images/mittersheim.jpg"
+	},		
+	{
+		"latitude":48.95739562,
+		"longitude":6.878511419,
+		"commune":	"Insming",
+		"entete":"Maison d'Emilie",
+		"etat":"rénovée",		
+		"description":"En cours de rénovation par l'association Maisons pyasannes de Moselle",
+		"image":"images/insming.jpg"
+	},
+	{
+		"latitude":48.99536792,
+		"longitude":6.831610935,
+		"commune":	"Hellimer",
+		"entete":"Maison Bonnert",
+		"etat":"rénovée",		
+		"description":"Inscrite MH",
+		"image":"images/hellimer.jpg"
+	},	
+	{
+		"latitude":48.77539624,
+		"longitude":7.169421408,
+		"commune":	"Hérange",
+		"entete":"",
+		"etat":"détruite",		
+		"description":"Détruite",
+		"image":"images/herange.png"
+	},		
+	{
+		"latitude":48.952852,
+		"longitude":6.984040787,
+		"commune":	"Kirviller",	
+		"entete":"",
+		"etat":"détruite",		
+		"description":"Détruite, auparavant inscrite MH",
+		"image":"images/kirviller.jpg"
+	},
+	{
+		"latitude":48.84779823744704,
+		"longitude":7.021744875908562,
+		"commune":	"Fénétrange",	
+		"entete":"",
+		"etat":"mauvais",		
+		"description":"Inscrite MH",
+		"image":"images/fenetrange.png"
+	},
+	{
+		"latitude":49.44403497836745,
+		"longitude":6.327394099194663,
+		"commune":	"Rettel",	
+		"entete":"Maison de la Dîme",
+		"etat":"mauvais",		
+		"description":"Inscrite MH",
+		"image":"images/rettel.jpg"
+	},
+	{
+		"latitude":49.04507670848868,
+		"longitude":7.34879018539674,
+		"commune":	"Siersthal",	
+		"entete":"Maison de 1777",
+		"etat":"rénovée",		
+		"description":"",
+		"image":"images/siersthal.jpg"
+	},
+	{
+		"latitude":48.9505364387642, 
+		"longitude":6.927029531641774,
+		"commune":	"Vittersbourg",	
+		"entete":"Maison de la dîme",
+		"etat":"détruite",		
+		"description":"Détruite",
+		"image":"images/vittersbourg.jpg"
+	},
+	{
+		"latitude":48.88855185622703, 
+		"longitude":6.895443838267994,
+		"commune":	"Insviller",	
+		"entete":"Maison",
+		"etat":"rénovée",		
+		"description":"Inscrite MH",
+		"image":"images/insviller.jpg"
+	},
+	{
+		"latitude":48.97375080475942, 
+		"longitude":6.908439117103886 ,
+		"commune":	"Kappelkinger",	
+		"entete":"Maison",
+		"etat":"rénovée",		
+		"description":"Inscrite MH",
+		"image":"images/kappelkinger.png"
+	},
+	{
+		"latitude":49.017018501548755, 
+		"longitude":7.500944562117502 ,
+		"commune":	"Eguelshardt",	
+		"entete":"Maison",
+		"etat":"rénovée",		
+		"description":"",
+		"image":"images/eguelshardt.jpg"
+	},
+	{
+		"latitude":48.95322888616342, 
+		"longitude":6.849832057391118 ,
+		"commune":	"Réning",	
+		"entete":"Maison",
+		"etat":"mauvais",		
+		"description":"En mauvais état, plus ancienne maison à pans de bois de Moselle-Est",
+		"image":"images/rening.png"
+	}
+]
